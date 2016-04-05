@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+nitro.py
+api.json
